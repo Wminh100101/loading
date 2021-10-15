@@ -28,6 +28,6 @@ void loading(){
 
     system("cls");
     std::cout << std::endl;
-    system("color F");
+    //system("color F");
 }
 
