@@ -23,7 +23,7 @@ void loading(){
         std::cout << b;
         Sleep(100);
     }
-    std::cout << "\nDa load xong!!!";
+    std::cout << "\n\t\t\t\t\t\tDa load xong!!!";
     Sleep(500);
 
     system("cls");
